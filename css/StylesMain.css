@@ -244,3 +244,36 @@ footer p {
 .contact-main-container img {
     width: 100px;
 }
+
+.profile-mian-container {
+    padding: 70px 40px;
+    background-color: #e6e9ed;
+    margin-bottom: 50px;
+}
+
+.profile-mian-container img{
+    width: 250px;
+    margin-right: 30px;
+}
+
+.profile-mian-container .profile-container {
+    display: flex;
+}
+
+.profile-mian-proyects {
+    padding: 0 50px 40px;
+}
+
+.profile-mian-proyects h3 {
+    border-bottom: 1px solid #d0d5dc;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.proyects-main-contaier {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.proyect-container {
+    padding: 0 5px;
+}
